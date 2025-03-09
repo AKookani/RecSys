@@ -1,4 +1,4 @@
-# Collaborative-Filtering-for-Movie-Recommendations
+# RecSys
 
 This repository contains two different implementations of a movie recommendation system using neural networks:
 
